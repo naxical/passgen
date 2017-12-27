@@ -1,6 +1,6 @@
 # Blame
 
-Repository containing info for the open-source blame program. Blame provides secure password phrases for any service you use. 
+Forked repository containing info for the open-source Blame program. Becuase the account who made the main repository is gone Blame is now being uphheld by this account. Blame provides secure password phrases for any service you use. 
 
 ## Getting Started
 
